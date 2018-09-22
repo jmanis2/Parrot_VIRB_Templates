@@ -1,0 +1,239 @@
+{
+   "accent2Color" : {
+      "a" : 255,
+      "b" : 255,
+      "g" : 255,
+      "r" : 255
+   },
+   "accentColor" : {
+      "a" : 255,
+      "b" : 255,
+      "g" : 255,
+      "r" : 255
+   },
+   "backgroundColor" : {
+      "a" : 157,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+   },
+   "category" : "Custom",
+   "name" : "Bebop 04 feet",
+   "thumbnailPath" : "Template 04.png",
+   "widgets" : [
+      {
+         "filename" : "LRG_TrackLine.veg",
+         "origin" : {
+            "x" : {
+               "fromEdge" : "min",
+               "offset" : 0
+            },
+            "y" : {
+               "fromEdge" : "min",
+               "offset" : 0
+            }
+         }
+      },
+      {
+         "filename" : "Bob5 field-73e38bc2-d415-4e82-ab26-af349c74111b\\Bob5 field.veg",
+         "origin" : {
+            "x" : {
+               "fromEdge" : "mid",
+               "offset" : -776.4691162109375
+            },
+            "y" : {
+               "fromEdge" : "max",
+               "offset" : -38.428222656250
+            }
+         },
+         "valueType" : "positionLat"
+      },
+      {
+         "filename" : "Bob5 Speed mph-8d6d218b-6f21-4396-82e0-68e314677ac4\\Bob5 Speed mph.veg",
+         "origin" : {
+            "x" : {
+               "fromEdge" : "min",
+               "offset" : -144.2817077636719
+            },
+            "y" : {
+               "fromEdge" : "max",
+               "offset" : -251.0447998046875
+            }
+         },
+         "valueType" : "stanceTime"
+      },
+      {
+         "filename" : "Bob5 altitude feet-964df022-2c11-4bee-a5aa-43f96e0b324f\\Bob5 altitude feet.veg",
+         "origin" : {
+            "x" : {
+               "fromEdge" : "max",
+               "offset" : -259.6853027343750
+            },
+            "y" : {
+               "fromEdge" : "max",
+               "offset" : -253.3535766601563
+            }
+         },
+         "valueType" : "stanceTimePercent"
+      },
+      {
+         "filename" : "Bob5 Elevation graph-299bcb7c-0528-471b-bd7d-5b279b2dd294\\Bob5 Elevation graph.veg",
+         "origin" : {
+            "x" : {
+               "fromEdge" : "mid",
+               "offset" : -763.9040527343750
+            },
+            "y" : {
+               "fromEdge" : "max",
+               "offset" : -131.1660766601563
+            }
+         },
+         "valueType" : "elevation"
+      },
+      {
+         "filename" : "Bob5 distance feet-41c4d35f-50bb-4f41-9ac5-c658b6e63255\\Bob5 distance feet.veg",
+         "origin" : {
+            "x" : {
+               "fromEdge" : "min",
+               "offset" : 203.5494079589844
+            },
+            "y" : {
+               "fromEdge" : "max",
+               "offset" : -43.0
+            }
+         },
+         "valueType" : "engineRpm"
+      },
+      {
+         "filename" : "Bob5 flown dist feet-e7bfb122-f401-4ed2-bd15-9a96e39b76ae\\Bob5 flown dist narrow feet.veg",
+         "origin" : {
+            "x" : {
+               "fromEdge" : "min",
+               "offset" : 380
+            },
+            "y" : {
+               "fromEdge" : "max",
+               "offset" : -43.0
+            }
+         },
+         "valueType" : "power"
+      },
+	  
+	  {
+         "filename" : "Bob5 wifi-f7b4983e-f087-48b1-a1ba-80c5e0e4801d\\Bob5 wifi narrow.veg",
+         "origin" : {
+            "x" : {
+               "fromEdge" : "min",
+               "offset" : 840
+            },
+            "y" : {
+               "fromEdge" : "max",
+               "offset" : -43.0
+            }
+         },
+         "valueType" : "heartRate"
+      },
+	  
+	  {
+         "filename" : "Bob5 gps-f7b4983e-f087-48b1-a1ba-80c5e0e4801e\\Bob5 gps narrow.veg",
+         "origin" : {
+            "x" : {
+               "fromEdge" : "min",
+               "offset" : 730
+            },
+            "y" : {
+               "fromEdge" : "max",
+               "offset" : -43.0
+            }
+         },
+         "valueType" : "verticalOscillation"
+      },
+	  
+      {
+         "filename" : "Bob5 power-f7b4983e-f087-48b1-a1ba-80c5e0e4801c\\Bob5 power narrow.veg",
+         "origin" : {
+            "x" : {
+               "fromEdge" : "max",
+               "offset" : -960
+            },
+            "y" : {
+               "fromEdge" : "max",
+               "offset" : -43.0
+            }
+         },
+         "valueType" : "cadence"
+      },
+      {
+         "filename" : "Bob5 Pitch-dd9f1372-b87f-4e6c-a76d-d2550218758d\\Bob5 Pitch.veg",
+         "origin" : {
+            "x" : {
+               "fromEdge" : "max",
+               "offset" : -790
+            },
+            "y" : {
+               "fromEdge" : "max",
+               "offset" : -43.0
+            }
+         },
+         "valueType" : "pitch"
+      },
+      {
+         "filename" : "Bob5 Roll-6904e80d-d3c4-40de-a487-57a727573a2d\\Bob5 Roll.veg",
+         "origin" : {
+            "x" : {
+               "fromEdge" : "max",
+               "offset" : -672
+            },
+            "y" : {
+               "fromEdge" : "max",
+               "offset" : -43.0
+            }
+         },
+         "valueType" : "roll"
+      },
+      {
+         "filename" : "Bob5 duration-c9894457-dc6c-46d6-a4f5-ecc6e4037caf\\Bob5 duration.veg",
+         "origin" : {
+            "x" : {
+               "fromEdge" : "mid",
+               "offset" : -400
+            },
+            "y" : {
+               "fromEdge" : "max",
+               "offset" : -43.0
+            }
+         },
+         "valueType" : "duration"
+      },
+	  
+	  {
+         "filename" : "Bob5 alt over ground feet\\Bob5 alt over ground feet.veg",
+         "origin" : {
+            "x" : {
+               "fromEdge" : "max",
+               "offset" : -450
+            },
+            "y" : {
+               "fromEdge" : "max",
+               "offset" : -43.0
+            }
+         },
+         "valueType" : "engineFuelRate"
+      },
+	  
+      {
+         "filename" : "Bob5 Orientation-14d8fdf3-8711-4991-b19a-e5aea9ac30e0\\Bob5 Orientation.veg",
+         "origin" : {
+            "x" : {
+               "fromEdge" : "max",
+               "offset" : -200.99121093750
+            },
+            "y" : {
+               "fromEdge" : "min",
+               "offset" : -7.103576660156250
+            }
+         },
+         "valueType" : "aviationTrackAngle"
+      }
+   ]
+}

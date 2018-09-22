@@ -1,0 +1,228 @@
+{
+   "accent2Color" : {
+      "a" : 255,
+      "b" : 204,
+      "g" : 204,
+      "r" : 204
+   },
+   "accentColor" : {
+      "a" : 255,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+   },
+   "backgroundColor" : {
+      "a" : 157,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+   },
+   "category" : "Custom",
+   "name" : "Disco 07 feet",
+   "thumbnailPath" : "Template 07.png",
+   "widgets" : [
+      {
+         "filename" : "LRG_TrackLine.veg",
+         "origin" : {
+            "x" : {
+               "fromEdge" : "max",
+               "offset" : -415.875488281250
+            },
+            "y" : {
+               "fromEdge" : "max",
+               "offset" : -450
+            }
+         }
+      },
+	  
+	  
+	  {
+         "filename" : "Disco AirSpeed 2 lines\\Disco airspeed 2 lines.veg",
+         "origin" : {
+            "x" : {
+               "fromEdge" : "min",
+               "offset" : 240.0
+            },
+            "y" : {
+               "fromEdge" : "max",
+               "offset" : -97.65
+            }
+         },
+         "valueType" : "vehicleSpeed"
+      },
+	  
+	  
+	  {
+         "filename" : "Bebo altitude over terrain feet\\Bebo altitude over terrain narrow feet.veg",
+         "origin" : {
+            "x" : {
+               "fromEdge" : "min",
+               "offset" : 380.0
+            },
+            "y" : {
+               "fromEdge" : "max",
+               "offset" : -97.65
+            }
+         },
+         "valueType" : "engineFuelRate"
+      },
+	  
+	  
+      {
+         "filename" : "Bebo flown dist feet-cda4243e-42a5-4415-9efc-a83b5d12b947\\Bebo flown dist feet.veg",
+         "origin" : {
+            "x" : {
+               "fromEdge" : "mid",
+               "offset" : 150
+            },
+            "y" : {
+               "fromEdge" : "max",
+               "offset" : -97.6582031250
+            }
+         },
+         "valueType" : "power"
+      },
+      {
+         "filename" : "Bebo distance feet-075ecb4e-9a2e-4d65-9295-b89e0a060975\\Bebo distance feet.veg",
+         "origin" : {
+            "x" : {
+               "fromEdge" : "min",
+               "offset" : 920
+            },
+            "y" : {
+               "fromEdge" : "max",
+               "offset" : -97.81250
+            }
+         },
+         "valueType" : "engineRpm"
+      },
+      {
+         "filename" : "Bebo Power-76ee432f-ea00-4ea1-bc6c-650cdc0cb103\\Bebo Power.veg",
+         "origin" : {
+            "x" : {
+               "fromEdge" : "max",
+               "fromEdge" : "max",
+               "offset" : -170
+            },
+            "y" : {
+               "fromEdge" : "max",
+               "offset" : -97.6582031250
+            }
+         },
+         "valueType" : "cadence"
+      },
+      {
+         "filename" : "Bebo Roll-895403bf-8d59-426b-bef5-bc7d1542e6d9\\Bebo Roll.veg",
+         "origin" : {
+            "x" : {
+               "fromEdge" : "min",
+               "offset" : 610.0
+            },
+            "y" : {
+               "fromEdge" : "max",
+               "offset" : -99.0
+            }
+         },
+         "valueType" : "roll"
+      },
+      {
+         "filename" : "Bebo Pitch-c56664ae-9e98-4193-899b-9cce90eac840\\Bebo Pitch.veg",
+         "origin" : {
+            "x" : {
+               "fromEdge" : "min",
+               "offset" : 500
+            },
+            "y" : {
+               "fromEdge" : "max",
+               "offset" : -98.406250
+            }
+         },
+         "valueType" : "pitch"
+      },
+      {
+         "filename" : "BEBO_Wifi_Signal-ee999bf6-444e-409f-8c92-ca85efeb9453\\BEBO_Wifi_narrow.veg",
+         "origin" : {
+            "x" : {
+               "fromEdge" : "min",
+               "offset" : 720
+            },
+            "y" : {
+               "fromEdge" : "max",
+               "offset" : -99.406250
+            }
+         },
+         "valueType" : "heartRate"
+      },
+      
+      {
+         "filename" : "Bob8 duration-5fc16317-77be-4dc0-a2a0-beb03fbf7b77\\Bob8 duration.veg",
+         "origin" : {
+            "x" : {
+               "fromEdge" : "mid",
+               "offset" : 610
+            },
+            "y" : {
+               "fromEdge" : "max",
+               "offset" : -69.05645751953125
+            }
+         },
+         "valueType" : "duration"
+      },
+      {
+         "filename" : "Bob8 Speed Alt feet-97158483-347c-486c-a9d0-ef5c49ac7bc1\\Bob8 Speed Alt feet.veg",
+         "origin" : {
+            "x" : {
+               "fromEdge" : "min",
+               "offset" : -158.97949218750
+            },
+            "y" : {
+               "fromEdge" : "max",
+               "offset" : -442.4398803710938
+            }
+         },
+         "valueType" : "stanceTimePercent"
+      },
+      {
+         "filename" : "Bop8 Time-28e9f162-74a8-47bf-8bab-22259253a48f\\Bop8 Time.veg",
+         "origin" : {
+            "x" : {
+               "fromEdge" : "mid",
+               "offset" : 350
+            },
+            "y" : {
+               "fromEdge" : "max",
+               "offset" : -71.20104980468750
+            }
+         },
+         "valueType" : "timePrecise"
+      },
+      {
+         "filename" : "Disco Orientation small\\Disco Orientation small.veg",
+         "origin" : {
+            "x" : {
+               "fromEdge" : "min",
+               "offset" : 39.87965393066406
+            },
+            "y" : {
+               "fromEdge" : "max",
+               "offset" : -241.3881225585938
+            }
+         },
+         "valueType" : "aviationTrackAngle"
+      },
+      {
+         "filename" : "Bop8 Date-28e9f162-74a8-47bf-8bab-22259253a48f\\Bop8 Date.veg",
+         "origin" : {
+            "x" : {
+               "fromEdge" : "mid",
+               "offset" : 530
+            },
+            "y" : {
+               "fromEdge" : "max",
+               "offset" : -68.23889160156250
+            }
+         },
+         "valueType" : "date"
+      }
+   ]
+}

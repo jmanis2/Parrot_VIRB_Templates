@@ -1,0 +1,267 @@
+{
+   "accent2Color" : {
+      "a" : 255,
+      "b" : 255,
+      "g" : 255,
+      "r" : 255
+   },
+   "accentColor" : {
+      "a" : 255,
+      "b" : 255,
+      "g" : 255,
+      "r" : 255
+   },
+   "backgroundColor" : {
+      "a" : 157,
+      "b" : 0,
+      "g" : 0,
+      "r" : 0
+   },
+   "category" : "Custom",
+   "name" : "Bebop 06 meter",
+   "thumbnailPath" : "Template 06.png",
+   "widgets" : [
+      {
+         "filename" : "Bebo field-ebdc8e3b-2a75-48b9-a8a4-5ea7513df75f\\Bebo field.veg",
+         "origin" : {
+            "x" : {
+               "fromEdge" : "min",
+               "offset" : 271.0540466308594
+            },
+            "y" : {
+               "fromEdge" : "max",
+               "offset" : -66.0
+            }
+         },
+         "valueType" : "positionLat"
+      },
+      {
+         "filename" : "Bebo field-ebdc8e3b-2a75-48b9-a8a4-5ea7513df75f\\Bebo field.veg",
+         "origin" : {
+            "x" : {
+               "fromEdge" : "max",
+               "offset" : -830.8591308593750
+            },
+            "y" : {
+               "fromEdge" : "max",
+               "offset" : -66.0
+            }
+         },
+         "valueType" : "positionLat"
+      },
+      {
+         "filename" : "LRG_TrackLine.veg",
+         "origin" : {
+            "x" : {
+               "fromEdge" : "min",
+               "offset" : 5.061958312988281
+            },
+            "y" : {
+               "fromEdge" : "min",
+               "offset" : 0
+            }
+         }
+      },
+      {
+         "filename" : "Bebo flown dist meter-cda4243e-42a5-4415-9efc-a83b5d12b946\\Bebo flown dist meter.veg",
+         "origin" : {
+            "x" : {
+               "fromEdge" : "mid",
+               "offset" : -320.0
+            },
+            "y" : {
+               "fromEdge" : "max",
+               "offset" : -98.0
+            }
+         },
+         "valueType" : "power"
+      },
+      {
+         "filename" : "Bebo distance meter-075ecb4e-9a2e-4d65-9295-b89e0a060974\\Bebo distance meter.veg",
+         "origin" : {
+            "x" : {
+               "fromEdge" : "min",
+               "offset" : 450.0
+            },
+            "y" : {
+               "fromEdge" : "max",
+               "offset" : -98.0
+            }
+         },
+         "valueType" : "engineRpm"
+      },
+      {
+         "filename" : "Bebo altitude meter\\Bebo altitude meter.veg",
+         "origin" : {
+            "x" : {
+               "fromEdge" : "max",
+               "offset" : -343.09472656250
+            },
+            "y" : {
+               "fromEdge" : "max",
+               "offset" : -284.0
+            }
+         },
+         "valueType" : "stanceTimePercent"
+      },
+      {
+         "filename" : "Bebo speed pitch km\\Bebo speed pitch km.veg",
+         "origin" : {
+            "x" : {
+               "fromEdge" : "min",
+               "offset" : -58.68934631347656
+            },
+            "y" : {
+               "fromEdge" : "max",
+               "offset" : -284.0
+            }
+         },
+         "valueType" : "stanceTime"
+      },
+      {
+         "filename" : "Bebo Power-76ee432f-ea00-4ea1-bc6c-650cdc0cb103\\Bebo Power.veg",
+         "origin" : {
+            "x" : {
+               "fromEdge" : "mid",
+               "offset" : 80
+            },
+            "y" : {
+               "fromEdge" : "max",
+               "offset" : -98.0
+            }
+         },
+         "valueType" : "cadence"
+      },
+
+	  {
+         "filename" : "Bebo Roll-895403bf-8d59-426b-bef5-bc7d1542e6d9\\Bebo Roll.veg",
+         "origin" : {
+            "x" : {
+               "fromEdge" : "max",
+               "offset" : -580.0
+            },
+            "y" : {
+               "fromEdge" : "max",
+               "offset" : -98.0
+            }
+         },
+         "valueType" : "roll"
+      },
+      {
+         "filename" : "Bebo Pitch-c56664ae-9e98-4193-899b-9cce90eac840\\Bebo Pitch.veg",
+         "origin" : {
+            "x" : {
+               "fromEdge" : "max",
+               "offset" : -680.0
+            },
+            "y" : {
+               "fromEdge" : "max",
+               "offset" : -98.0
+            }
+         },
+         "valueType" : "pitch"
+      },
+	  
+	  
+	  {
+         "filename" : "Bebo altitude over terrain meter\\Bebo altitude over terrain narrow meter.veg",
+         "origin" : {
+            "x" : {
+               "fromEdge" : "max",
+               "offset" : -450.0
+            },
+            "y" : {
+               "fromEdge" : "max",
+               "offset" : -97.65
+            }
+         },
+         "valueType" : "engineFuelRate"
+      },
+	  
+	  
+      {
+         "filename" : "Bebo Orientation-bedff214-82f3-4065-95d6-8a4a5287d38e\\Bebo Orientation.veg",
+         "origin" : {
+            "x" : {
+               "fromEdge" : "mid",
+               "offset" : -199.9369506835938
+            },
+            "y" : {
+               "fromEdge" : "max",
+               "offset" : -226.7398071289063
+            }
+         },
+         "valueType" : "aviationTrackAngle"
+      },
+      {
+         "filename" : "Bob6 altitude graph-63000f6f-1b21-4c22-858d-568c55ca35dd\\Bob6 altitude graph narrow.veg",
+         "origin" : {
+            "x" : {
+               "fromEdge" : "max",
+               "offset" : -871.5393066406250
+            },
+            "y" : {
+               "fromEdge" : "max",
+               "offset" : -307.9221191406250
+            }
+         },
+         "valueType" : "elevation"
+      },
+      {
+         "filename" : "Bob6 speed graph-63000f6f-1b21-4c22-858d-568c55ca35dc\\Bob6 speed graph narrow.veg",
+         "origin" : {
+            "x" : {
+               "fromEdge" : "min",
+               "offset" : 236.2149658203125
+            },
+            "y" : {
+               "fromEdge" : "max",
+               "offset" : -306.1381225585938
+            }
+         },
+         "valueType" : "stanceTime"
+      },
+      {
+         "filename" : "BEBO_Wifi_Signal-ee999bf6-444e-409f-8c92-ca85efeb9453\\BEBO_Wifi_Signal.veg",
+         "origin" : {
+            "x" : {
+               "fromEdge" : "min",
+               "offset" : 240.0
+            },
+            "y" : {
+               "fromEdge" : "max",
+               "offset" : -98.0
+            }
+         },
+         "valueType" : "heartRate"
+      },
+      {
+         "filename" : "BEBO_Nr_of_satellites-ee999bf6-444e-409f-8c92-ca85efeb9452\\BEBO_Nr_Of_Sat narrow.veg",
+         "origin" : {
+            "x" : {
+               "fromEdge" : "max",
+               "offset" : -770.0
+            },
+            "y" : {
+               "fromEdge" : "max",
+               "offset" : -97.42541503906250
+            }
+         },
+         "valueType" : "verticalOscillation"
+      },
+      {
+         "filename" : "Bebo duration-0cc0808e-06ec-49c5-ba0c-5089390405f8\\Bebo duration.veg",
+         "origin" : {
+            "x" : {
+               "fromEdge" : "max",
+               "offset" : -217.261230468750
+            },
+            "y" : {
+               "fromEdge" : "min",
+               "offset" : 12.73878479003906
+            }
+         },
+         "valueType" : "duration"
+      }
+   ]
+}
